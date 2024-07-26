@@ -13,3 +13,5 @@ Technologies Used
 
 HTML: Markup language used to structure the trading card.
 CSS: Stylesheet language used to design and layout the card.
+
+Udacity Project for Inroduction to Programming nanodegree.
